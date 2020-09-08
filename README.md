@@ -2,7 +2,7 @@ asanoic-mingw64-build
 =====================
 
 MinGW-w64 build for Windows 64bit  
-extract to any folder, add to PATH before run.
+extract to any folder as any name, add to PATH before run.
 
 version information
 ===================
