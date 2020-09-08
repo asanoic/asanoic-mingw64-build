@@ -1,5 +1,11 @@
-# asanoic-mingw64-build
-MinGW-w64 build for Windows 64bit
+asanoic-mingw64-build
+=====================
+
+MinGW-w64 build for Windows 64bit  
+extract to any folder, add to PATH before run.
+
+version information
+===================
 
     binutils 2.35
     gmp 6.2.0
