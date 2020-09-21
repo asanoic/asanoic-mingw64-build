@@ -7,7 +7,7 @@ extract to any folder as any name, add to PATH (for example: `C:\native\bin`) be
 version information
 ===================
 
-    binutils 2.35
+    binutils 2.35.1
     gmp 6.2.0
     mpfr 4.1.0
     mpc 1.2.0
