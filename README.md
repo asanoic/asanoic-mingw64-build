@@ -18,6 +18,6 @@ version information
     
     gdb 9.2
         * expat 2.2.9
-        * python 3.8.5
+        * python 3.8.6
     
     make 4.2.1
