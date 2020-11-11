@@ -13,7 +13,7 @@ version information
         * gmp 6.2.0
         * mpfr 4.1.0
         * mpc 1.2.1
-        * isl 0.22.1
+        * isl 0.23
         * mingw-w64 8.0.0
     
     gdb 10.1
