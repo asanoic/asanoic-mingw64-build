@@ -4,6 +4,8 @@ asanoic-mingw64-build
 MinGW-w64 build for Windows 64bit  
 extract to any folder as any name, add to PATH (for example: `C:\native\bin`) before run.
 
+[home page](https://asano-gcc.github.io)
+
 version information
 ===================
 
