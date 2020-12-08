@@ -20,6 +20,6 @@ version information
     
     gdb 10.1
         * expat 2.2.10
-        * python 3.9.0
+        * python 3.9.1
     
     make 4.2.1
