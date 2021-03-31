@@ -19,7 +19,7 @@ version information
         * mingw-w64 8.0.0
     
     gdb 10.1
-        * expat 2.2.10
+        * expat 2.3.0
         * python 3.9.2
     
     make 4.2.1
