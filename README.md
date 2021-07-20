@@ -9,7 +9,7 @@ extract to any folder as any name, add to PATH (for example: `C:\native\bin`) be
 version information
 ===================
 
-    binutils 2.36.1
+    binutils 2.37
     
     gcc 11.1.0
         * gmp 6.2.1
