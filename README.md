@@ -11,7 +11,7 @@ version information
 
     binutils 2.37
     
-    gcc 11.1.0
+    gcc 11.2.0
         * gmp 6.2.1
         * mpfr 4.1.0
         * mpc 1.2.1
