@@ -18,8 +18,8 @@ version information
         * isl 0.24
         * mingw-w64 9.0.0
     
-    gdb 10.2
+    gdb 11.1
         * expat 2.4.1
-        * python 3.9.6
+        * python 3.9.7
     
     make 4.2.1
