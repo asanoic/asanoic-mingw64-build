@@ -3,6 +3,8 @@ asanoic-mingw64-build
 
 MinGW-w64 build for Windows 64bit  
 extract to any folder as any name, add to PATH (for example: `C:\native\bin`) before run.
+asano-gcc version mainly follows Debian gcc version, which means version 10, 12, 14 will get all latest patches,
+and other vesions like 11, 13 only publish first x.1 release.
 
 [home page](https://asano-gcc.github.io)
 
