@@ -18,10 +18,10 @@ version information
         * mpfr 4.1.0
         * mpc 1.2.1
         * isl 0.24
-        * mingw-w64 9.0.0
+        * mingw-w64 10.0.0
     
     gdb 11.1
-        * expat 2.4.1
+        * expat 2.4.8
         * python 3.9.7
     
     make 4.2.1
