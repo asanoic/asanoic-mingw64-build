@@ -11,16 +11,16 @@ and other vesions like 11, 13 only publish first x.1 release.
 version information
 ===================
 
-    binutils 2.37
+    binutils 2.38
     
-    gcc 11.2.0
+    gcc 12.1.0
         * gmp 6.2.1
         * mpfr 4.1.0
         * mpc 1.2.1
         * isl 0.24
         * mingw-w64 10.0.0
     
-    gdb 11.1
+    gdb 12.1
         * expat 2.4.8
         * python 3.9.7
     
