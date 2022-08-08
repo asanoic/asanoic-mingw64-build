@@ -11,7 +11,7 @@ and other vesions like 11, 13 only publish first x.1 release.
 version information
 ===================
 
-    binutils 2.38
+    binutils 2.39
     
     gcc 12.1.0
         * gmp 6.2.1
